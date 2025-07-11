@@ -1,6 +1,6 @@
 # Weather Dashboard App
 
-![App Screenshot/Banner](dash-banner.png)
+![App Screenshot/Banner](/public/dash-banner.png)
 ## Project Title: Weather Dashboard with React Redux & RTK
 
 ## Description
